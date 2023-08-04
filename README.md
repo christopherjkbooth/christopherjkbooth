@@ -5,7 +5,7 @@ See my work below:
  https://github.com/christopherjkbooth/cancellation-prediction \
  https://github.com/christopherjkbooth/Rent-prediction
 
-align="right" img src="https://github.com/christopherjkbooth/christopherjkbooth/c.jpg" alt="Alt text" title="Optional title"
+<img align="right" src="https://github.com/christopherjkbooth/christopherjkbooth/blob/main/c.jpg" alt="Alt text" title="Optional title" width="500" height="350"> 
 
 
 
