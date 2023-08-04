@@ -5,6 +5,9 @@ See my work below:
  https://github.com/christopherjkbooth/cancellation-prediction \
  https://github.com/christopherjkbooth/Rent-prediction
 
+align="right" alt="JPG" src="c:\Users\Chris\Desktop\python\Github\Pics\a.jpg raw=true" width="500" height="320"
+
+
 
 Skills
 - SQL
