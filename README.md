@@ -2,7 +2,7 @@
 
 See my work below:
 
- [Room cancellation prediction](https://github.com/christopherjkbooth/cancellation-prediction) \
+ [Hotel booking cancellation prediction](https://github.com/christopherjkbooth/cancellation-prediction) \
  [Rent price prediction](https://github.com/christopherjkbooth/Rent-prediction)
 
 <img align="right" src="https://github.com/christopherjkbooth/christopherjkbooth/blob/main/d.jpg" alt="Alt text" title="Optional title" width="500" height="350"> 
