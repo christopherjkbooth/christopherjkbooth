@@ -1,19 +1,20 @@
-### Hi i'm Chris, a data analyst! 
+### Hi i'm Chris! I currently work as a data analyst and i'm an aspiring data scientist.  
 
 See my work below:
 
- https://github.com/christopherjkbooth/cancellation-prediction \
- https://github.com/christopherjkbooth/Rent-prediction
+ [Room cancellation prediction](https://github.com/christopherjkbooth/cancellation-prediction) \
+ [Rent price prediction](https://github.com/christopherjkbooth/Rent-prediction)
 
-<img align="right" src="https://github.com/christopherjkbooth/christopherjkbooth/blob/main/c.jpg" alt="Alt text" title="Optional title" width="500" height="350"> 
+<img align="right" src="https://github.com/christopherjkbooth/christopherjkbooth/blob/main/d.jpg" alt="Alt text" title="Optional title" width="500" height="350"> 
 
 
 
 Skills
 - SQL
-- Python - Basic
-- Alteryx - Core certified
-- PowerBI - Intermediate
+- Python
+- Alteryx
+- PowerBI
+- Tableau
 
 
 
