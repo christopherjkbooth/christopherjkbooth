@@ -1,13 +1,7 @@
 ### Hi i'm Chris! I currently work as a data analyst and i'm an aspiring data scientist.  
-
-See my work below:
-
- [Hotel booking cancellation prediction](https://github.com/christopherjkbooth/cancellation-prediction) \
- [Rent price prediction](https://github.com/christopherjkbooth/Rent-prediction)
+---
 
 <img align="right" src="https://github.com/christopherjkbooth/christopherjkbooth/blob/main/d.jpg" alt="Alt text" title="Optional title" width="500" height="350"> 
-
-
 
 Skills
 - SQL
@@ -16,7 +10,10 @@ Skills
 - PowerBI
 - Tableau
 
+Click the links below to see some of my work:
 
+ [Hotel booking cancellation prediction](https://github.com/christopherjkbooth/cancellation-prediction) \
+ [Rent price prediction](https://github.com/christopherjkbooth/Rent-prediction)
 
 
 
